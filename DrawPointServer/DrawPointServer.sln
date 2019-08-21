@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawPoint", "DrawPoint\DrawPoint.csproj", "{9AE26105-1FE8-4279-828B-EA7304A15129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawPoint.Tests", "DrawPoint.Tests\DrawPoint.Tests.csproj", "{6A36F521-02BE-41E3-A268-006A12C6EFC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE26105-1FE8-4279-828B-EA7304A15129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE26105-1FE8-4279-828B-EA7304A15129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE26105-1FE8-4279-828B-EA7304A15129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE26105-1FE8-4279-828B-EA7304A15129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A36F521-02BE-41E3-A268-006A12C6EFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A36F521-02BE-41E3-A268-006A12C6EFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A36F521-02BE-41E3-A268-006A12C6EFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A36F521-02BE-41E3-A268-006A12C6EFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A08C60D-6FE7-469B-B77F-E23ACB402F1F}
+	EndGlobalSection
+EndGlobal

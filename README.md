@@ -1,1 +1,1 @@
-Draw in point
+Drawing lines from an array of points.
